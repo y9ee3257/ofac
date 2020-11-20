@@ -1,0 +1,19 @@
+.header-style{
+  background-color:#841b2b;
+  height:3rem;
+  overflow:hidden;
+}
+
+.logo-style{
+  height:5rem
+}
+
+.equifax-bc{
+  background-color:#841b2b !important;
+  color:white !important;
+  border-color:transparent !important;
+}
+
+body{
+  font-family: serif !important;
+}
